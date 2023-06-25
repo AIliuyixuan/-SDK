@@ -1,0 +1,13 @@
+
+.common:
+event_handler
+lmp_acl_c_handler
+loader_update_loop
+hfp_parse_rfcomm_data
+lmp_slave_machine
+NoiseSuppress_Process
+btstack_task
+EchoSuppress_Process
+app_task_handler
+lmp_event_handler
+

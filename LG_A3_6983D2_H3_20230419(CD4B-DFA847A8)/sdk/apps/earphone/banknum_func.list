@@ -1,0 +1,11 @@
+#bank 定义  这里定义的函数只能是主循环的函数
+0:
+#function_E1
+#function_E21
+#function_E22
+#function_E3
+
+1:
+#lmp_slave_machine
+#lmp_master_machine
+
